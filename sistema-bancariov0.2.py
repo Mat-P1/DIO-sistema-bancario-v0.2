@@ -1,4 +1,4 @@
-#Sistema Bancário v0.1
+#Sistema Bancário v0.2
 
 import textwrap
 
